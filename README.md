@@ -7,7 +7,7 @@
 # دسته‌بندی قلم‌ها
 
 ## نوشتن در وب
-- [قلم استعداد](https://aminabedi68.github.io/Estedad/)
+- [قلم استعداد](https://aminabedi68.github.io/Estedad/) ساختهٔ امین عابدی
 ![نماگرفت قلم استعداد](img/estedad.png)
 ## چاپ کتاب
 

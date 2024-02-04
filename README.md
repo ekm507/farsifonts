@@ -7,7 +7,8 @@
 # دسته‌بندی قلم‌ها
 
 ## نوشتن در وب
-
+- [قلم استعداد](https://aminabedi68.github.io/Estedad/)
+![نماگرفت قلم استعداد](img/estedad.png)
 ## چاپ کتاب
 
 - [قلم ساحل](https://rastikerdar.github.io/sahel-font/)، ساختهٔ صابر راستی‌کردار
@@ -15,6 +16,8 @@
 
 
 ## طراحی گرافیکی
+ - [قلم میخک](https://aminabedi68.github.io/Mikhak/)
+ ![نماگرفت قلم میخک](img/mikhak.jpg)
 
 ## برنامه‌نویسی
 

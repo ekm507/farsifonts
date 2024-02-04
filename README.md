@@ -16,10 +16,10 @@
 
 
 ## طراحی گرافیکی
- - [قلم میخک](https://aminabedi68.github.io/Mikhak/)
+ - [قلم میخک](https://aminabedi68.github.io/Mikhak/) ساختهٔ امین عابدی که برای ساخت کامیک هم مناسب است.
  ![نماگرفت قلم میخک](img/mikhak.jpg)
 
 ## برنامه‌نویسی
 
-- قلم آذرمهر مونو. ساختهٔ امین عابدی. قلم تک‌فاصله مناسب برنامه‌نویسی. [صفحهٔ اصلی](https://github.com/aminabedi68/AzarMehrMonospaced)
+- قلم [آذرمهر مونو](https://github.com/aminabedi68/AzarMehrMonospaced). ساختهٔ امین عابدی. قلم تک‌فاصله مناسب برنامه‌نویسی.
   ![نماگرفت قلم آذرمهر مونو](img/azarmehrmonospaced_screenshot.png)

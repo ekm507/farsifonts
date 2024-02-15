@@ -9,6 +9,9 @@
 ## نوشتن در وب
 - [قلم استعداد](https://aminabedi68.github.io/Estedad/) ساختهٔ امین عابدی
 ![نماگرفت قلم استعداد](img/estedad.png)
+- [قلم وزیرمتن](https://rastikerdar.github.io/vazirmatn/fa)، ساختهٔ صابر راستی‌کردار
+  ![نماگرفت قلم وزیرمتن](img/vazirmatn.png)
+
 ## چاپ کتاب
 
 - [قلم ساحل](https://rastikerdar.github.io/sahel-font/)، ساختهٔ صابر راستی‌کردار

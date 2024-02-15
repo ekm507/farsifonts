@@ -12,7 +12,7 @@
 ## چاپ کتاب
 
 - [قلم ساحل](https://rastikerdar.github.io/sahel-font/)، ساختهٔ صابر راستی‌کردار
-  ![نماگرفت قلم ساحل](https://github.com/ahangarha/farsifonts/assets/11241315/415176f5-d8f4-4018-bb5c-ae36d5fb16d6)
+  ![نماگرفت قلم ساحل](img/sahel.png)
 
 
 ## طراحی گرافیکی

@@ -11,6 +11,7 @@
 ![نماگرفت قلم استعداد](img/estedad.png)
 - [قلم وزیرمتن](https://rastikerdar.github.io/vazirmatn/fa)، ساختهٔ صابر راستی‌کردار
   ![نماگرفت قلم وزیرمتن](img/vazirmatn.png)
+- [قلم آراد](https://github.com/MDarvishi5124/Arad) ساختهٔ محمد درویشی که یک قلم هندسی است.
 
 ## چاپ کتاب
 
